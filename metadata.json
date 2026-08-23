@@ -1,0 +1,6 @@
+{
+  "name": "Assistant Intelligent d'Orientation Médicale & Deuxième Avis",
+  "description": "Système expert d'aide au triage clinique, optimisation diagnostique préliminaire, détection des drapeaux rouges et contre-expertise médicale basée sur l'IA (Conforme CDC & HAS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
